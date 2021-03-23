@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/composer" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/respect/stringifier" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/respect/validation" />
+      <path value="$PROJECT_DIR$/movieDB-api/vendor/firebase/php-jwt" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+</project>

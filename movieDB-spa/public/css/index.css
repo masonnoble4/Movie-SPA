@@ -1,0 +1,32 @@
+/*
+*  styles for the index page
+*/
+
+html,
+body {
+    /*height: 100%;*/
+    font-family:Poppins,sans-serif;
+}
+
+body {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    flex-direction: column;
+    padding-top: 60px;
+}
+
+/* Not required for template or sticky footer method. */
+.footer {
+    width:100%;
+    background-color: black;
+}
+
+.footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+code {
+    font-size: 80%;
+}

@@ -1,0 +1,73 @@
+/*
+*  styles for person-related elements
+*/
+
+.person-name{
+    width: 330px;
+}
+
+.person-gender {
+    width: 150px;
+}
+
+.person-person-id {
+    width: 150px;
+}
+
+.person-character-name {
+    width: 330px;
+}
+
+
+.person-detail {
+    margin: 20px 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.person-detail-row {
+    border-top: #b7d2ff solid 1px;
+    border-bottom: #b7d2ff solid 1px;
+    margin-bottom: -1px;
+    display: flex;
+    flex-direction: row;
+}
+
+.person-detail-label {
+    padding: 3px 10px;
+    min-width: 120px;
+    text-align: right;
+    font-weight: bold;
+    border-right: #b7d2ff solid 1px;
+    align-items: normal;
+}
+
+.person-detail-field {
+    padding: 3px 10px;
+    align-items: normal;
+}
+
+
+
+.person-pagination {
+    border-top: 1px solid #e4f1fe;
+    border-left: none;
+    border-right: none;
+    padding-top: 10px;
+}
+
+.person-pagination div {
+    width: 100%;
+    text-align: right;
+    font-size: 0.8em;
+}
+
+.person-pagination  a {
+    border-radius: 3px;
+    border: 1px solid #e4f1fe;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 5px;
+}

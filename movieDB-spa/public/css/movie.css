@@ -1,0 +1,121 @@
+/*
+*  styles for movie-related elements
+ */
+
+
+.movie-title {
+    width: 550px;
+}
+
+.movie-budget {
+    min-width: 100px;
+}
+
+.movie-homepage {
+    min-width: 120px;
+}
+
+.movie-overview {
+    min-width: 475px;
+    max-width: 475px;
+}
+
+.movie-popularity {
+    min-width: 150px;
+}
+
+.movie-releaseDate {
+    width: 150px;
+}
+
+.movie-revenue {
+    width: 200px;
+}
+
+.movie-runtime {
+    min-width: 50px;
+}
+
+
+.movie-status {
+    min-width: 100px;
+}
+
+.movie-tagline {
+    width: 300px;
+}
+
+.movie-voteAvg {
+    min-width: 100px;
+}
+
+.movie-voteCnt {
+    width: 100px;
+}
+
+.list-key {
+    color: mediumblue;
+    cursor: pointer;
+}
+
+.list-key:hover {
+    text-decoration: underline;
+}
+
+.genre-name {
+    width: 125px;
+}
+
+.genre-budget {
+    width: 155px;
+}
+
+.genre-runtime {
+    width: 125px;
+}
+
+.genre-voteScr {
+    width: 100px;
+}
+
+.genre-voteCnt {
+    width: 100px;
+}
+
+.movie-detail {
+    margin: 20px 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.movie-detail-row {
+    border-top: #b7d2ff solid 1px;
+    border-bottom: #b7d2ff solid 1px;
+    margin-bottom: -1px;
+    display: flex;
+    flex-direction: row;
+}
+
+.movie-detail-label {
+    padding: 3px 10px;
+    min-width: 120px;
+    text-align: right;
+    font-weight: bold;
+    border-right: #b7d2ff solid 1px;
+    align-items: normal;
+}
+
+.movie-detail-field {
+    padding: 3px 10px;
+    align-items: normal;
+}
+
+
+
+.movie-pagination {
+    border-top: 1px solid #e4f1fe;
+    border-left: none;
+    border-right: none;
+    padding-top: 10px;
+}
+
